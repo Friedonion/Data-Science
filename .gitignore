@@ -1,0 +1,26 @@
+# Python cached files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDES and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# AI and Agent Artifacts
+.gemini/
+brain/
+implementation_plan.md
+task.md
+walkthrough.md
+scratch/
